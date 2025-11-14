@@ -80,17 +80,7 @@ cd pattern-programs
 * * * * *
 ```
 
-### Butterfly Pattern
-```
-*        *
-* *    * *
-* * *  * * *
-* * ** * * *
-* * ** * * *
-* * *  * * *
-* *    * *
-*        *
-```
+
 
 ### Diamond Pattern
 ```
