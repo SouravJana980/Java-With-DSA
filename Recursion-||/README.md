@@ -1,8 +1,6 @@
 
 # 🌈 **Recursion & Mathematical Problems – Java 🚀**
 
-### 📅 *100 Days of Code – Day XX*
-
 ### 🔥 *Today's Focus: Recursion | Fibonacci | Power Optimization | nCr | String Problems*
 
 ---
