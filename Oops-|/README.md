@@ -79,3 +79,16 @@ This repository is perfect for:
 ✔ OOP revision
 ✔ Lab practice
 ✔ Github portfolio building
+
+# 🌟 Class vs Function in Java Programming
+
+| Feature           | Function                     | Class                                      |
+| ----------------- | ---------------------------- | ------------------------------------------ |
+| **Definition**    | Block of code for a task     | Blueprint for objects                      |
+| **Purpose**       | Action / computation         | Organize data + behavior                   |
+| **Data Handling** | Usually stateless            | Can hold state in attributes               |
+| **Usage**         | Called directly              | Create object(s) → call methods            |
+| **OOP Support**   | ❌                            | ✅ Encapsulation, Inheritance, Polymorphism |
+| **Lifetime**      | Exists only during execution | Exists as long as object exists            |
+| **Analogy**       | Calculator button            | Car with brand, color, and actions         |
+
