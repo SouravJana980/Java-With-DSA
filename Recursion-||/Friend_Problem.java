@@ -5,7 +5,7 @@ public class Friend_Problem {
 
         if(n==1 || n==2){
             return n;
-        }   
+        } 
         //this is lenthy code
         // //choice
         // //single
