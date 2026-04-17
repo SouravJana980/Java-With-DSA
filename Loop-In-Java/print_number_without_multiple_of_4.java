@@ -7,7 +7,7 @@ public class print_number_without_multiple_of_4 {
         int startingnumber = sc.nextInt();
         System.out.print("enter ending number :");
         int endingnumber = sc.nextInt();
-        for(int i=startingnumber;i<=endingnumber;i++){
+        for(int i=startingnumber;i<=endingnumber;i++)
             if(i % 4 == 0){
                 continue;
             }
